@@ -21,5 +21,5 @@ Here, you move pieces like a real hacker: by typing on the keyboard, with maximu
 3. Make an input like e2e4 (or just guess what works).
 4. If the move doesn’t work, curse and search through Stack Overflow or give up.
 
-###Note: 
+### Note: 
 This is a work in progress and by no means finished. There’s still a lot to be done.
